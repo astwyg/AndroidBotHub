@@ -1,0 +1,13 @@
+{
+  "actions":{
+    "left":"input swipe 354 865 355 866 {ms}",
+    "right":"input swipe 670 865 671 866 {ms}",
+    "drift":"input swipe 1940 850 1941 851 {ms}",
+    "small_no2":"input swipe 1690 710 1691 711 {ms}",
+    "no2_1":"input swipe 1855 575 1856 576 {ms}",
+    "no2_2":""
+  },
+  "script":{
+
+  }
+}
